@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\bin\Debug\net9.0\01-Siniflar.exe
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\bin\Debug\net9.0\01-Siniflar.deps.json
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\bin\Debug\net9.0\01-Siniflar.runtimeconfig.json
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\bin\Debug\net9.0\01-Siniflar.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\bin\Debug\net9.0\01-Siniflar.pdb
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\01-Siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\01-Siniflar.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\01-Siniflar.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\01-Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\01-Siniflar.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\refint\01-Siniflar.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\01-Siniflar.pdb
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\01-Siniflar.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\01-Siniflar\obj\Debug\net9.0\ref\01-Siniflar.dll

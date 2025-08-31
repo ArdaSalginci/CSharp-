@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\bin\Debug\net9.0\02-Methods.exe
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\bin\Debug\net9.0\02-Methods.deps.json
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\bin\Debug\net9.0\02-Methods.runtimeconfig.json
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\bin\Debug\net9.0\02-Methods.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\bin\Debug\net9.0\02-Methods.pdb
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\02-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\02-Methods.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\02-Methods.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\02-Methods.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\02-Methods.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\refint\02-Methods.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\02-Methods.pdb
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\02-Methods.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\02-Methods\obj\Debug\net9.0\ref\02-Methods.dll

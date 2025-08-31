@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\bin\Debug\net9.0\03-Constructors.exe
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\bin\Debug\net9.0\03-Constructors.deps.json
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\bin\Debug\net9.0\03-Constructors.runtimeconfig.json
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\bin\Debug\net9.0\03-Constructors.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\bin\Debug\net9.0\03-Constructors.pdb
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\03-Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\03-Constructors.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\03-Constructors.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\03-Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\03-Constructors.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\refint\03-Constructors.dll
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\03-Constructors.pdb
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\03-Constructors.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Visual Studio Code C#\C# Dosya yönetimi vs OPP\02-OPP\03-Constructors\obj\Debug\net9.0\ref\03-Constructors.dll
