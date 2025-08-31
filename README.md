@@ -1,25 +1,39 @@
-# OOP Çalışmaları (C#)
+# CSharp Projects
 
-Bu repo, C# çalışırken yazdığım örnek projeleri içeriyor.  
-Amaç: Nesne Yönelimli Programlama (OOP) kavramlarını küçük projeler üzerinden öğrenmek ve uygulamak.  
+Bu repo, C# öğrenme sürecimde yazdığım örnek projeleri içeriyor.  
+Her proje farklı bir konuyu kapsıyor ve ayrı klasörlerde yer alıyor.  
+Tüm projeler **CSharp.sln** solution dosyası ile birlikte yönetilmektedir.
+
+---
+
+## 📂 Proje Listesi
+
+### 01-DosyaYonetimi
+- C# ile **dosya işlemleri** üzerine örnekler içerir.  
+- Dosya oluşturma, okuma, yazma ve silme işlemleri.  
+- Kullanılan sınıflar: `File`, `StreamReader`, `StreamWriter`.
 
 ---
 
-# 📂 Klasörler
-
-- **01-Siniflar** → Class ve object kullanımı, property tanımlama
-- **02-Methods** → Metot tanımlama, parametre ve dönüş değerleri
-- **03-Constructors** → Constructor (yapıcı metot) örnekleri
-- **04-Modifiers-Static Methods** → Erişim belirleyiciler, static özellik ve metotlar
+### 02-OOP
+- **Nesne Yönelimli Programlama (Object-Oriented Programming)** kavramlarını uygular.  
+- Alt projeler:  
+  - **01-Siniflar** → Sınıf tanımları, nesne oluşturma.  
+  - **02-Methods** → Metot kullanımı, parametreler.  
+  - **03-Constructors** → Yapıcı metot örnekleri.  
+  - **04-Modifiers-Static Methods** → Erişim belirleyiciler, static metot kullanımı.  
 
 ---
-## 🛠️ Derleme & Çalıştırma
 
-Projeleri derlemek için ve ardından örnek bir projeyi çalıştırmak için:
+### 03-Collections
+- C# **koleksiyon sınıfları** (`List`, `Dictionary`, `Queue`, `Stack`) üzerine örnekler.  
+- Eleman ekleme, silme, arama ve döngü ile gezme işlemleri.  
+- Koleksiyonlar sayesinde veriler üzerinde esnek ve hızlı işlem yapmayı gösterir.
 
-```bash
-# Derleme
-dotnet build OPP.sln
+---
 
-# Çalıştırma (örnek: 01-Siniflar)
-dotnet run --project ./02-OPP/01-Siniflar/01-Siniflar.csproj
+## 🚀 Kullanım
+
+1. Reponun kopyasını bilgisayarına al:
+   ```bash
+   git clone https://github.com/ArdaSalginci/CSharp-.git
