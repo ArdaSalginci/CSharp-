@@ -32,7 +32,7 @@ Tüm projeler **CSharp.sln** solution dosyası ile birlikte yönetilmektedir.
 
 ---
 
-## 🚀 Kullanım
+## Kullanım
 
 1. Reponun kopyasını bilgisayarına al:
    ```bash
