@@ -15,3 +15,9 @@ obj/
 *.tmp
 *.cache
 *.zip
+# Build çıktıları
+bin/
+obj/
+
+# VSCode ayarları
+.vscode/
