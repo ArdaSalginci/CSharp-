@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-DosyaYonetimi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+324af48632876f4a65a40091a3a5b6bae4182600")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+862c1669b66cd2c6027e1860f124186d1125d4c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-DosyaYonetimi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-DosyaYonetimi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

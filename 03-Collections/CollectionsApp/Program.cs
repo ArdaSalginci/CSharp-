@@ -1,12 +1,20 @@
-﻿using System;
-
+﻿
 namespace collections
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Array
+            // Collections 
+            // =>ArrayList => int, string 
+            // => genetic collections 
+            // => int, string, object
+   
+
+
+
+    
         }
     }
 }
