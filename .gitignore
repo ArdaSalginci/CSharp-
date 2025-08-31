@@ -1,23 +1,6 @@
-
-# Build output
 bin/
 obj/
-
-# VS Code
+.vs/
 .vscode/
-
-# Rider / Visual Studio
 *.user
 *.suo
-
-# Logs & temp files
-*.log
-*.tmp
-*.cache
-*.zip
-# Build çıktıları
-bin/
-obj/
-
-# VSCode ayarları
-.vscode/
