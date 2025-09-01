@@ -33,12 +33,24 @@ namespace collections
             liste.AddRange(sayilar);
             var eleman = (int)liste[0];
             var isim = liste[2];
-            Console.WriteLine(eleman);
-            Console.WriteLine(isim); 
-          Console.WriteLine(liste.Count);
+           
+
+            // insert 
+            liste.Insert(1, "arda");
+            liste.InsertRange(2, liste2);
+            // remove 
+            liste.Remove(10);
+            liste.RemoveAt(2);
+            liste.RemoveRange(2, 3);
+
+            // contains, indexOf
+            Console.WriteLine(liste.Contains(10));
 
 
-
+            foreach (var item in liste)
+            {
+                Console.WriteLine(item);
+            }
         }
         }
     }
