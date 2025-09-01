@@ -35,7 +35,7 @@ namespace collections
             var isim = liste[2];
             Console.WriteLine(eleman);
             Console.WriteLine(isim); 
-          
+          Console.WriteLine(liste.Count);
 
 
 
