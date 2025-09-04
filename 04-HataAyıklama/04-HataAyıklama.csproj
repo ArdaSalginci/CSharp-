@@ -6,6 +6,7 @@
     <RootNamespace>_04_HataAyıklama</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <NoWarn>$(NoWarn);CS1591;CS0168;CS0219;CS8600;CS8602;CS8603;CS8604;CS8605;CS8618</NoWarn>
   </PropertyGroup>
 
 </Project>
